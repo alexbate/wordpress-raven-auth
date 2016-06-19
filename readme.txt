@@ -16,5 +16,5 @@ This section describes how to install the plugin and get it working.
 
 e.g.
 
-1. Upload `wordpress-raven-auth.php` to the `/wp-content/plugins/` directory
+1. Upload all the PHP files in this repository to the `/wp-content/plugins/` directory. You probably want to do this in a subdirectory, called something like `wordpress-raven-auth`. You can do this easily by running `git clone git@github.com:danielchatfield/wordpress-raven-auth.git`.
 2. Activate the plugin through the 'Plugins' menu in WordPress
